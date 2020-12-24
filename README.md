@@ -1,4 +1,4 @@
-# adam_ctf_bot
+# adam
 
 Personal bot to store private information.
 
